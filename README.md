@@ -1,6 +1,6 @@
 # Call Center Dashboard 
 
-### I developed an interactive and insightful dashboard in Excel, analyzing call center operations for improved decision-making.
+### Developed an interactive and insightful dashboard in Excel, analyzing call center operations for improved decision-making.
 
 ### Key Highlights:
 * **Data Collection**: Database downloaded from the web.
